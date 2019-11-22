@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, mental disorders and neuroimaging.
+bio: My research interests include machine learning, statistical modelling, neuroimaging and research on mental disorders.
 
 interests:
 - Machine Learning
