@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Quattrocento+Sans"
+
+# Font families
+heading_font = "Quattrocento Sans"
+body_font = "Quattrocento Sans"
+nav_font = "Quattrocento Sans"
+mono_font = "Quattrocento Sans"
