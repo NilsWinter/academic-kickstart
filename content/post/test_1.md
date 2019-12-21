@@ -3,7 +3,7 @@
 
 title: "To post or not to post"
 subtitle: "This is an example post"
-summary: "Here's a short summary of that post"
+summary: "Here's a short summary of that awesome post"
 authors: [admin]
 tags: ["machine-learning"]
 categories: []
