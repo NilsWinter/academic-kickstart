@@ -23,7 +23,8 @@ bio: My research interests include machine learning, statistical modelling, neur
 interests:
 - Machine Learning
 - Psychiatric Research
-- Resting-State fMRI
+- Neuroimaging
+- Bayesian Statistics
 
 education:
   courses:
@@ -53,9 +54,9 @@ social:
   link: https://github.com/NilsWinter
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,3 +71,8 @@ user_groups:
 I am a PhD student in the Machine Learning in Psychiatry group of Prof Dr Tim Hahn at the Institute of Translational Psychiatry, 
 Münster. I'm working on the application of machine learning algorithms to neuroimaging data of psychiatric patients to 
 build better predictive models in a clinical context. 
+
+The objective of my PhD project is the application of multi-variate predictive methods to the neuroimaging data acquired by the FOR2107 consortium in order to produce insights into the 
+neurobiological aetiology of affective disorders that are clinically relevant and useful for individualized diagnosis 
+and treatment. My research interest focuses on resting-state fMRI, Machine Learning, Deep Neural Networks and Bayesian 
+statistics.

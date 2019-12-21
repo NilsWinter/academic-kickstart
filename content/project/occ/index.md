@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Photon"
-summary: "We've built a high level python API for designing and optimizing machine learning pipelines. Head over to our website..."
-authors: [Nils R Winter; Ramona Leenings; Tim Hahn]
-tags: ["Machine Learning"]
+title: "Otto-Creutzfeldt-Center"
+summary: "I'm a PhD student in this interdisciplinary research center."
+authors: []
+tags: []
 categories: []
-date: 2019-11-17T17:10:08+01:00
+date: 2019-12-21T19:29:39+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://photon-ai.com"
+external_link: "https://www.uni-muenster.de/OCCMuenster/phd-students/nils-winter.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

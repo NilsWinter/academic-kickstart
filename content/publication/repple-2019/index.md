@@ -1,0 +1,13 @@
+---
+title: "Severity of current depression and remission status are associated with structural connectome alterations in major depressive disorder."
+date: 2019-01-01
+publishDate: 2019-12-21T18:25:28.320668Z
+authors: ["Jonathan Repple", "Marco Mauritz", "Susanne Meinert", "Siemon C de Lange", "Dominik Grotegerd", "Nils Opel", "Ronny Redlich", "Tim Hahn", "Katharina Förster", "Elisabeth J Leehr", "Nils Winter", "Janik Goltermann", "Verena Enneking", "Stella M Fingas", "Hannah Lemke", "Lena Waltemate", "Igor Nenadic", "Axel Krug", "Katharina Brosch", "Simon Schmitt", "Frederike Stein", "Tina Meller", "Andreas Jansen", "Olaf Steinsträter", "Bernhard T Baune", "Tilo Kircher", "Udo Dannlowski", "Martijn P van den Heuvel"]
+publication_types: ["2"]
+abstract: "Major depressive disorder (MDD) is associated to affected brain wiring. Little is known whether these changes are stable over time and hence might represent a biological predisposition, or whether these are state markers of current disease severity and recovery after a depressive episode. Human white matter network (\"connectome\") analysis via network science is a suitable tool to investigate the association between affected brain connectivity and MDD. This study examines structural connectome topology in 464 MDD patients (mean age: 36.6 years) and 432 healthy controls (35.6 years). MDD patients were stratified categorially by current disease status (acute vs. partial remission vs. full remission) based on DSM-IV criteria. Current symptom severity was assessed continuously via the Hamilton Depression Rating Scale (HAMD). Connectome matrices were created via a combination of T1-weighted magnetic resonance imaging (MRI) and tractography methods based on diffusion-weighted imaging. Global tract-based metrics were not found to show significant differences between disease status groups, suggesting conserved global brain connectivity in MDD. In contrast, reduced global fractional anisotropy (FA) was observed specifically in acute depressed patients compared to fully remitted patients and healthy controls. Within the MDD patients, FA in a subnetwork including frontal, temporal, insular, and parietal nodes was negatively associated with HAMD, an effect remaining when correcting for lifetime disease severity. Therefore, our findings provide new evidence of MDD to be associated with structural, yet dynamic, state-dependent connectome alterations, which covary with current disease severity and remission status after a depressive episode."
+featured: false
+publication: "*Molecular psychiatry*"
+url_pdf: "http://www.ncbi.nlm.nih.gov/pubmed/31758093"
+doi: "10.1038/s41380-019-0603-1"
+---
+

@@ -1,0 +1,12 @@
+---
+title: "Time heals all wounds? A 2-year longitudinal diffusion tensor imaging study in major depressive disorder"
+date: 2019-01-01
+publishDate: 2019-12-21T18:25:28.322476Z
+authors: ["Jonathan Repple", "Dario Zaremba", "Susanne Meinert", "Dominik Grotegerd", "Ronny Redlich", "Katharina Förster", "Katharina Dohm", "Nils Opel", "Tim Hahn", "Verena Enneking", "Elisabeth J. Leehr", "Joscha Böhnlein", "Fanni Dzvonyar", "Lisa Sindermann", "Nils Winter", "Janik Goltermann", "Harald Kugel", "Jochen Bauer", "Walter Heindel", "Volker Arolt", "Udo Dannlowski"]
+publication_types: ["2"]
+abstract: "Background: Cross-sectional studies have repeatedly shown impaired white matter integrity in patients with major depressive disorder. Longitudinal analyses are missing from the current research and are crucial to elucidating the impact of disease trajectories on white matter impairment in major depressive disorder. Methods: Fifty-nine patients with major depressive disorder receiving inpatient treatment, as well as 49 healthy controls, took part in a prospective study. Participants were scanned twice (baseline and follow-up), approximately 2.25 years apart, using diffusion tensor imaging. We analyzed diffusion metrics using tract-based spatial statistics. Results: At baseline, patients had higher mean diffusivity in a large bilateral frontal cluster comprising the body and genu of the corpus callosum, the anterior and superior corona radiata, and the superior longitudinal fasciculus. A significant group × time interaction revealed a decrease of mean diffusivity in patients with major depressive disorder over time, abolishing group differences at follow-up. This effect was observed irrespective of disease course in the follow-up period. Limitations: Analyzing the course of illness is challenging because of recollection biases in patients with major depressive disorder. Conclusion: This study reports follow-up diffusion tensor imaging data in patients with major depressive disorder after an acute depressive episode. We demonstrated impaired prefrontal white matter microstructure (higher mean diffusivity) at baseline in patients with major depressive disorder, which normalized at follow-up after 2 years, irrespective of disease course. This might have been due to a general treatment effect and might have reflected recovery of white matter integrity."
+featured: false
+publication: "*Journal of psychiatry & neuroscience : JPN*"
+doi: "10.1503/jpn.180243"
+---
+

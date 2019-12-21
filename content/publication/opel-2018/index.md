@@ -1,0 +1,13 @@
+---
+title: "Cortical surface area alterations shaped by genetic load for neuroticism"
+date: 2018-01-01
+publishDate: 2019-12-21T18:25:28.318644Z
+authors: ["Nils Opel", "Azmeraw T. Amare", "Ronny Redlich", "Jonathan Repple", "Claas Kaehler", "Dominik Grotegerd", "Katharina Dohm", "Dario Zaremba", "Elisabeth J. Leehr", "Joscha Böhnlein", "Katharina Förster", "Christian Bürger", "Susanne Meinert", "Verena Enneking", "Daniel Emden", "Ramona Leenings", "Nils Winter", "Tim Hahn", "Walter Heindel", "Jochen Bauer", "David Wilhelms", "Simon Schmitt", "Andreas Jansen", "Axel Krug", "Igor Nenadic", "Marcella Rietschel", "Stephanie Witt", "Andreas J. Forstner", "Markus M. Nöthen", "Tilo Kircher", "Volker Arolt", "Bernhard T. Baune", "Udo Dannlowski"]
+publication_types: ["2"]
+abstract: "Neuroticism has been shown to act as an important risk factor for major depressive disorder (MDD). Genetic and neuroimaging research has independently revealed biological correlates of neurotic personality including cortical alterations in brain regions of high relevance for affective disorders. Here we investigated the influence of a polygenic score for neuroticism (PGS) on cortical brain structure in a joint discovery sample of n = 746 healthy controls (HC) and n = 268 MDD patients. Findings were validated in an independent replication sample (n = 341 HC and n = 263 MDD). Subgroup analyses stratified for case-control status and analyses of associations between neurotic phenotype and cortical measures were carried out. PGS for neuroticism was significantly associated with a decreased cortical surface area of the inferior parietal cortex, the precuneus, the rostral cingulate cortex and the inferior frontal gyrus in the discovery sample. Similar associations between PGS and surface area of the inferior parietal cortex and the precuneus were demonstrated in the replication sample. Subgroup analyses revealed negative associations in the latter regions between PGS and surface area in both HC and MDD subjects. Neurotic phenotype was negatively correlated with surface area in similar cortical regions including the inferior parietal cortex and the precuneus. No significant associations between PGS and cortical thickness were detected. The morphometric overlap of associations between both PGS and neurotic phenotype in similar cortical regions closely related to internally focused cognition points to the potential relevance of genetically shaped cortical alterations in the development of neuroticism."
+featured: false
+publication: "*Molecular Psychiatry*"
+url_pdf: "http://dx.doi.org/10.1038/s41380-018-0236-9"
+doi: "10.1038/s41380-018-0236-9"
+---
+
